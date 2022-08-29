@@ -3,7 +3,7 @@
 - 📫 Visit us @ https://withpublic.com
 
 
-![Anurag's GitHub stats](https://omnipost.biz/api/posts/?accountName=nnurmano&type=products?sanitize=true)
+![Anurag's GitHub stats](https://omnipost.biz/api/posts/?accountName=nnurmano&type=products&sanitize=true)
 
 <!---
 withpublic/withpublic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
