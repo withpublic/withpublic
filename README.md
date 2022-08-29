@@ -1,9 +1,9 @@
 - 👋 Hi, we are @withpublic team!
 - 💞️ We help you to find remote job or jobs with relocation.
 - 📫 Visit us @ https://withpublic.com
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-<img align="center" src="https://omnipost.biz/api/posts/?accountName=nnurmano&type=products"/>
- </a>
+https://omnipost.biz/api/posts/?accountName=nnurmano&type=products"
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 <!---
 withpublic/withpublic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
